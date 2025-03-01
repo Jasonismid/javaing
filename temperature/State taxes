@@ -1,0 +1,13 @@
+public class StateTaxes {
+    // Properties
+    private final double TAX_RATE = 0.13;
+    private final double numberOfDependents;
+
+    // Constructors(s)
+    public StateTaxes(integer numberOfDependants) {
+        _numberOfDependents = numberOfDependents;
+    }
+    // Concretion(s)
+
+    // Helpers(s)
+}
